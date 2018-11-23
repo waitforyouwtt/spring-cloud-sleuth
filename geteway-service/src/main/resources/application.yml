@@ -1,0 +1,25 @@
+server:
+  port: 5000
+spring:
+  application:
+    name: geteway-service
+  zipkin:
+    base-url: http://localhost:9411
+  sleuth:
+    sampler:
+      percentage: 1.0
+
+eureka:
+  instance:
+    appname: geteway-service
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+
+zuul:
+  routes:
+    api-a:
+     path: /user-api/**
+     serviceId: user-service
+
+

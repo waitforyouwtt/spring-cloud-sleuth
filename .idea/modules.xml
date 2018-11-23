@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../springcloudsleuth/geteway-service/geteway-service.iml" filepath="$PROJECT_DIR$/../springcloudsleuth/geteway-service/geteway-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudsleuth.iml" filepath="$PROJECT_DIR$/springcloudsleuth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloudsleuth/user-service/user-service.iml" filepath="$PROJECT_DIR$/../springcloudsleuth/user-service/user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloudsleuth/zipkin-server/zipkin-server.iml" filepath="$PROJECT_DIR$/../springcloudsleuth/zipkin-server/zipkin-server.iml" />
+    </modules>
+  </component>
+</project>
