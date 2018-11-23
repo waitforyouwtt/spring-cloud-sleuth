@@ -2,186 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5580082-157c-4fc4-a3ce-9e297b97fa36" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/encodings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__com_fasterxml_classmate_1_3_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_8_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__com_google_code_gson_gson_2_8_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_6_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_6_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__com_netflix_servo_servo_core_0_10_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__com_netflix_servo_servo_internal_0_10_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__com_netflix_zuul_zuul_core_1_3_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__io_netty_netty_buffer_4_0_27_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__io_netty_netty_codec_4_0_27_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__io_netty_netty_codec_http_4_0_27_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__io_netty_netty_common_4_0_27_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__io_netty_netty_handler_4_0_27_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__io_netty_netty_transport_4_0_27_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_0_27_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__io_reactivex_rxjava_1_1_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__io_zipkin_java_zipkin_1_23_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__io_zipkin_java_zipkin_autoconfigure_ui_1_23_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__io_zipkin_java_zipkin_server_1_23_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__io_zipkin_java_zipkin_ui_1_23_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__io_zipkin_reporter_zipkin_reporter_0_7_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_14.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_14.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_14.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_aspectj_aspectjrt_1_8_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_55.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_55.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_5_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_1_5_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_1_5_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_1_5_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_1_2_2_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_1_2_2_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_1_3_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_1_3_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_sleuth_core_1_2_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_sleuth_zipkin_1_2_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_1_2_2_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_archaius_1_3_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_eureka_1_3_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_hystrix_1_3_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_ribbon_1_3_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_sleuth_1_2_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_zipkin_1_2_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_zuul_1_3_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_4_2_2_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_springframework_spring_aop_4_3_8_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_springframework_spring_beans_4_3_8_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_springframework_spring_context_4_3_8_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_springframework_spring_core_4_3_8_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_springframework_spring_expression_4_3_8_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_springframework_spring_test_4_3_8_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_springframework_spring_web_4_3_8_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_8_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/geteway-service/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/geteway-service/.mvn/wrapper/maven-wrapper.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/geteway-service/.mvn/wrapper/maven-wrapper.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/geteway-service/mvnw" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/geteway-service/mvnw.cmd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/geteway-service/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/geteway-service/src/main/java/com/book/GetewayServiceApplication.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/geteway-service/src/main/resources/application.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/geteway-service/src/main/resources/application.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/geteway-service/src/test/java/com/book/GetewayServiceApplicationTests.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/springcloudsleuth.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/user-service/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/user-service/.mvn/wrapper/maven-wrapper.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/user-service/.mvn/wrapper/maven-wrapper.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/user-service/mvnw" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/user-service/mvnw.cmd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/user-service/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/user-service/src/main/java/com/book/UserServiceApplication.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/user-service/src/main/java/com/book/controller/UserController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/user-service/src/main/java/com/book/read/read.MD" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/user-service/src/main/resources/application.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/user-service/src/main/resources/application.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/user-service/src/test/java/com/book/UserServiceApplicationTests.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/zipkin-server/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/zipkin-server/.mvn/wrapper/maven-wrapper.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/zipkin-server/.mvn/wrapper/maven-wrapper.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/zipkin-server/mvnw" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/zipkin-server/mvnw.cmd" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/zipkin-server/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/zipkin-server/src/main/java/com/book/ZipkinServerApplication.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/zipkin-server/src/main/java/read/read.MD" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/zipkin-server/src/main/resources/application.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/zipkin-server/src/main/resources/application.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/zipkin-server/src/test/java/com/book/ZipkinServerApplicationTests.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../springcloudsleuth/geteway-service/src/main/java/com/book/config/LoggerFilter.java" />
+      <change beforePath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__io_zipkin_java_zipkin_autoconfigure_ui_1_23_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__io_zipkin_java_zipkin_server_1_23_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../springcloudsleuth/.idea/libraries/Maven__io_zipkin_java_zipkin_ui_1_23_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../springcloudsleuth/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../springcloudsleuth/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../springcloudsleuth/zipkin-server/pom.xml" afterPath="$PROJECT_DIR$/../springcloudsleuth/zipkin-server/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/../springcloudsleuth/zipkin-server/src/main/java/read/read.MD" afterPath="$PROJECT_DIR$/../springcloudsleuth/zipkin-server/src/main/java/read/read.MD" />
     </list>
     <ignored path="$PROJECT_DIR$/../springcloudsleuth/out/" />
     <ignored path="$PROJECT_DIR$/../springcloudsleuth/target/" />
@@ -197,31 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../springcloudsleuth/zipkin-server/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="18" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../springcloudsleuth/geteway-service/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1025">
-              <caret line="48" column="60" lean-forward="false" selection-start-line="48" selection-start-column="60" selection-end-line="48" selection-end-column="60" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../springcloudsleuth/geteway-service/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="552">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -231,11 +39,49 @@
         <entry file="file://$PROJECT_DIR$/../springcloudsleuth/zipkin-server/src/main/java/read/read.MD">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="115">
-                <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+              <first_editor relative-caret-position="184">
+                <caret line="8" column="75" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="75" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoggerFilter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../springcloudsleuth/geteway-service/src/main/java/com/book/config/LoggerFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="33" column="44" lean-forward="false" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#447#448#0" expanded="true" />
+                <element signature="e#495#496#0" expanded="true" />
+                <element signature="e#541#542#0" expanded="true" />
+                <element signature="e#567#568#0" expanded="true" />
+                <element signature="e#618#619#0" expanded="true" />
+                <element signature="e#645#646#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../springcloudsleuth/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="586">
+              <caret line="35" column="4" lean-forward="false" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../springcloudsleuth/zipkin-server/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="411">
+              <caret line="57" column="56" lean-forward="false" selection-start-line="57" selection-start-column="56" selection-end-line="57" selection-end-column="56" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -250,21 +96,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../springcloudsleuth/user-service/src/main/java/com/book/controller/UserController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="17" column="31" lean-forward="false" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../springcloudsleuth/zipkin-server/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="23" />
+            <state relative-caret-position="253">
+              <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -284,8 +120,10 @@
         <entry file="file://$PROJECT_DIR$/../springcloudsleuth/zipkin-server/src/main/java/com/book/ZipkinServerApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="161">
-              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding />
+              <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -322,9 +160,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/../springcloudsleuth/pom.xml" />
-        <option value="$PROJECT_DIR$/../springcloudsleuth/zipkin-server/pom.xml" />
-        <option value="$PROJECT_DIR$/../springcloudsleuth/zipkin-server/src/main/java/com/book/ZipkinServerApplication.java" />
-        <option value="$PROJECT_DIR$/../springcloudsleuth/zipkin-server/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/../springcloudsleuth/user-service/pom.xml" />
         <option value="$PROJECT_DIR$/../springcloudsleuth/user-service/src/main/java/com/book/controller/UserController.java" />
         <option value="$PROJECT_DIR$/../springcloudsleuth/user-service/src/main/java/com/book/UserServiceApplication.java" />
@@ -332,6 +167,10 @@
         <option value="$PROJECT_DIR$/../springcloudsleuth/geteway-service/src/main/java/com/book/GetewayServiceApplication.java" />
         <option value="$PROJECT_DIR$/../springcloudsleuth/user-service/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/../springcloudsleuth/geteway-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/../springcloudsleuth/geteway-service/src/main/java/com/book/config/LoggerFilter.java" />
+        <option value="$PROJECT_DIR$/../springcloudsleuth/zipkin-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/../springcloudsleuth/zipkin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/../springcloudsleuth/zipkin-server/src/main/java/com/book/ZipkinServerApplication.java" />
         <option value="$PROJECT_DIR$/../springcloudsleuth/zipkin-server/src/main/java/read/read.MD" />
       </list>
     </option>
@@ -407,7 +246,24 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="book" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloudsleuth" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloudsleuth" type="462c0819:PsiDirectoryNode" />
+              <item name="zipkin-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="read" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloudsleuth" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloudsleuth" type="462c0819:PsiDirectoryNode" />
+              <item name="zipkin-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -446,7 +302,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.GetewayServiceApplication">
+  <component name="RunManager" selected="Spring Boot.ZipkinServerApplication">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -565,12 +421,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542940833075</updated>
-      <workItem from="1542940836008" duration="4477000" />
+      <workItem from="1542940836008" duration="6163000" />
     </task>
+    <task id="LOCAL-00001" summary="链路追踪[网关/服务提供者/链路追踪]">
+      <created>1542945773877</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542945773877</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4477000" />
+    <option name="totallyTimeSpent" value="6163000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -591,7 +455,7 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10070258" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28688523" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -614,19 +478,15 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="链路追踪[网关/服务提供者/链路追踪]" />
+    <option name="LAST_COMMIT_MESSAGE" value="链路追踪[网关/服务提供者/链路追踪]" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../springcloudsleuth/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="805">
-          <caret line="35" column="4" lean-forward="false" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../springcloudsleuth/user-service/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="716">
@@ -646,14 +506,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../springcloudsleuth/zipkin-server/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="18" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../springcloudsleuth/user-service/src/main/java/com/book/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
@@ -670,34 +522,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../springcloudsleuth/zipkin-server/src/main/java/com/book/ZipkinServerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../springcloudsleuth/user-service/src/main/java/com/book/UserServiceApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../springcloudsleuth/geteway-service/src/main/java/com/book/GetewayServiceApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../springcloudsleuth/zipkin-server/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="23" />
           <folding />
         </state>
       </provider>
@@ -713,16 +541,74 @@
     <entry file="file://$PROJECT_DIR$/../springcloudsleuth/geteway-service/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="552">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloudsleuth/geteway-service/src/main/java/com/book/GetewayServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloudsleuth/geteway-service/src/main/java/com/book/config/LoggerFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="33" column="44" lean-forward="false" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloudsleuth/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="35" column="4" lean-forward="false" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloudsleuth/zipkin-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloudsleuth/zipkin-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="57" column="56" lean-forward="false" selection-start-line="57" selection-start-column="56" selection-end-line="57" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springcloudsleuth/zipkin-server/src/main/java/com/book/ZipkinServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../springcloudsleuth/zipkin-server/src/main/java/read/read.MD">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="115">
-            <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          <first_editor relative-caret-position="184">
+            <caret line="8" column="75" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="75" />
             <folding />
           </first_editor>
           <second_editor />
